@@ -1,7 +1,8 @@
 A sleek, modern, and lightweight QR code generator built with HTML & CSS. Perfect for quickly generating QR codes for text, URLs, emails, phone numbers, or any custom data — all in a beautiful dark-themed interface.
 
 
-<img width="1338" height="683" alt="image" src="https://github.com/user-attachments/assets/0a19294e-6843-4b3d-a221-48d1fd03d3f8" />
+<img width="1345" height="669" alt="image" src="https://github.com/user-attachments/assets/5a29e74b-c66e-4694-8b4d-16902fc2a58b" />
+
 
 
 ✨ Features Responsive Design:
