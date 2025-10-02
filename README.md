@@ -4,8 +4,8 @@ A sleek, modern, and lightweight QR code generator built with HTML & CSS. Perfec
 <img width="1338" height="683" alt="image" src="https://github.com/user-attachments/assets/0a19294e-6843-4b3d-a221-48d1fd03d3f8" />
 
 
-✨ Features
-Responsive Design: 
+✨ Features Responsive Design:
+
 Looks great on all devices.
 Customizable Size: Choose from multiple preset sizes (Extra Small to Extra Large).
 Flexible Input: Supports any text, URL, email, phone number, or custom data.
