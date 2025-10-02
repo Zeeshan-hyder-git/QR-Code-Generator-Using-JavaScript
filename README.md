@@ -21,9 +21,9 @@ Your QR code will appear instantly — download or screenshot it!
 
 📁 Project Structure
 1. qr-code-generator/
-2. └── README.md
-3. ├── index.html
-4. ├── style.css
+2. ─ README.md
+3. ─ index.html
+4. ─ style.css
 
 🚀 Future Improvements
 Add color customization for QR codes.
